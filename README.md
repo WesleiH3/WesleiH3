@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Weslei Melo e eu sou um engenhei de software em progresso</p>
+<p align="left">Me chamo Weslei Melo e eu sou um engenheiro de software em progresso</p>
 
 ###
 
