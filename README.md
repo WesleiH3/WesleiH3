@@ -1,4 +1,4 @@
-<h1 align="left"><b> Olá eu me chamo Weslei. prazer em te conhecer<b></b> </h1>
+<h1 align="left"><b> Olá eu me chamo Weslei, prazer em te conhecer<b></b> </h1>
 
 ###
 
